@@ -1,2 +1,2 @@
 # PROJECT-1
-Intergrating jenkins and Sonar using Docke
+Intergrating jenkins and Sonar using Docker
